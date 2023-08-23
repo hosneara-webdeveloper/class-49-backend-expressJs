@@ -4,7 +4,7 @@ const port = 5000;
 const products = require('./product.json')
 
 app.get('/', (req, res) => {
-    res.send('our backend server is ready for fullstack in web ')
+    res.send('our backend server is ready for web ')
 })
 
 app.get('/product', (req, res) => {
@@ -20,5 +20,5 @@ app.get('/product/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Our server is on port: &{port}`);
+    console.log(`Our server is on port: ${port}`);
 })

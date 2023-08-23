@@ -17,8 +17,24 @@
     
     {
       "id": "3",
-      "name": " drone",
+      "name": " Drone",
       "price": 1500
+    },
+    
+    {
+      "id": "4",
+      "name": " spectacles",
+      "price": 500
+    },
+    {
+      "id": "5",
+      "name": " Smart watch",
+      "price": 700
+    },
+    {
+      "id": "6",
+      "name": "cell phone",
+      "price": 900
     }
     
   ]
