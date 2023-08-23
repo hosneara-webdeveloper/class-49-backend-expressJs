@@ -1,0 +1,24 @@
+[
+    
+    
+    {
+      "id": "1",
+      "name": " Laptop",
+      "price": 1000
+    },
+    
+    
+    {
+      "id": "2",
+      "name": " Camera",
+      "price": 1200
+    },
+    
+    
+    {
+      "id": "3",
+      "name": " drone",
+      "price": 1500
+    }
+    
+  ]
